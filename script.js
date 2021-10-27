@@ -163,15 +163,8 @@ elem.innerHTML = "zdorov"
 const box = document.querySelector('nav');
 box.prepend(elem);
 */
-/*
-const elem = document.querySelector("nav");
-const item = elem.innerHTML;
 
-elem.insertAdjacentHTML(
-        "beforebegin",
-        "<strong>dsgaefwrgvefsgresqgerqs</strong>"
-)
-*/
+
 
 
 
